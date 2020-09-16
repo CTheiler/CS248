@@ -1,0 +1,31 @@
+15
+1 2 8 15
+A wooden sign reads "Nevarro, Population: 3421". There is a big red X over the sign
+2 1 3 14
+There is a black pool of water in the corner.
+3 2 4 13
+You see a Tyrannosaurus Rex fossil embedded in the wall.
+4 3 5 12
+There is an empty Diet Rite can here.
+5 4 6 11
+You almost step on a broken cellular phone.
+6 5 7 10
+A couple of evil rats stare at you from under a pile of rocks.
+7 6 8 9
+You find a Spanish doubloon on the floor.
+8 7 9 1
+The ceiling is very low and you have to stoop.
+9 8 10 7
+You step on a slippery spot, slip, and fall on your keester.
+10 9 11 6
+You get a strong sense of deja vu
+11 10 12 5
+There's an old lightsaber strung up in the corner
+12 11 13 4
+There is a monument dedicated to jabba the hut in the middle of the room
+13 12 14 3
+A Han solo poster lays on the ground and is torn to shreds
+14 13 15 2
+There's an ad for flex seal playing in the background
+15 14 10 1
+It looks as though a pack of Varactlys have passed through the area
